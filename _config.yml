@@ -2,9 +2,7 @@ title: fey
 description: test
 baseurl: ""
 url: "https://fey.github.io"
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
+remote_theme: minima
 markdown: kramdown
 encoding: utf-8
 sass:
