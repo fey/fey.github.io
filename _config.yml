@@ -1,8 +1,8 @@
-title: fey
-description: test
+title: Хекслет.Поддержка
+description: Как работает Хекслет и связанные с этим вопросы
 baseurl: ""
-url: "https://fey.github.io"
-remote_theme: minima
+url: "https://hexlet.github.io"
+theme: minima
 markdown: kramdown
 encoding: utf-8
 sass:
